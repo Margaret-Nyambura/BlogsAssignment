@@ -34,3 +34,4 @@ class BlogsViewHolder(itemView: View): RecyclerView.ViewHolder(itemView){
     val title = itemView.findViewById<TextView>(R.id.tvTitle)
     val preview = itemView.findViewById<TextView>(R.id.tvPreview)
 }
+
